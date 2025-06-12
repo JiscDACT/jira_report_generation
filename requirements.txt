@@ -1,0 +1,11 @@
+
+boto3
+pytest~=7.4.0
+setuptools~=65.5.1
+requests~=2.32.3
+pandas~=2.2.1
+pantab==3.0.2
+numpy~=1.26.4
+suda
+pram
+psutil
